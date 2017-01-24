@@ -1,0 +1,10 @@
+# ignore eclipse
+.classpath
+.project
+.settings/
+# ignore intellij
+.metadata
+.idea
+*.iml
+
+**/target/
